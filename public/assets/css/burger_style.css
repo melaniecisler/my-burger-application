@@ -1,0 +1,15 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.card-header {
+    background-color: #EE6E73;
+    color: #fff;
+    background-image: url("https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60");
+}
+
+body {
+    margin-bottom: 50px;
+    
+}
