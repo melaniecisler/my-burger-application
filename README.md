@@ -10,6 +10,6 @@ To Run: node server.js
 
 Authored By: Melanie Cisler
 
-Heroku: 
+Heroku: https://my-burger-application.herokuapp.com/ 
 
-Images: demo screen shots in "images" folder
+Images: demo screen shot in deploy.png
