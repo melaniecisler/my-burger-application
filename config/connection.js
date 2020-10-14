@@ -5,7 +5,7 @@ let connection =  mysql.createConnection({
         port: 3306,
         database: "burger_db",
         user: "root",
-        password: ""
+        password: "TitoBurrito1!"
     });
 
 module.exports = connection;
